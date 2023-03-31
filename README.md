@@ -1,6 +1,5 @@
 ## Olá, eu sou o Fabrício Leindecker!
-#### Busco minha transição de carreira para área de Tecnologia da Informação. Estou aprendendo sobre desenvolvimento web HTML, CSS, JavaScript e Qualidade de software.
-Como hobby estou aprendendo sobre desenvolvimento de Jogos com GameMaker Studio e Unity com C#. 
+#### Busco minha transição de carreira para área de Tecnologia da Informação.
 <div align="center">
   <a href="https://github.com/FabricioLeindecker">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FabricioLeindecker&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
